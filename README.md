@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Bruno</h1>
+<h1 align="center">Oi, Eu sou o Bruno 👋</h1>
  
  🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**
 
