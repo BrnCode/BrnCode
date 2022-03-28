@@ -1,14 +1,14 @@
 <h1 align="center">Oi 👋, Eu sou o Bruno</h1>
  
-- 🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**
+ 🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**
 
-- 👯 Eu procuro colaborar em **Projetos de Ciência de dados e IA**
+ 👯 Eu procuro colaborar em **Projetos de Ciência de dados e IA**
 
-- 📫 Fale comigo em **brn.olives@gmail.com**
+ 📫 Fale comigo em **brn.olives@gmail.com**
 
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/o-brn/](https://www.linkedin.com/in/o-brn/)
+ 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/o-brn/](https://www.linkedin.com/in/o-brn/)
 
-- ⚡ Curiosidade sobre mim **amo música e toco alguns instrumentos**
+ ⚡ Curiosidade sobre mim **amo música e toco alguns instrumentos**
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
