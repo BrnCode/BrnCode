@@ -1,1 +1,1 @@
-This folder contains all assests from this repository.
+This folder contains all assets from this repository.
