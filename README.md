@@ -21,6 +21,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
  📫 Fale comigo em **brn.olives@gmail.com**;
 
  📄 Saiba mais sobre mim em [https://www.linkedin.com/in/o-brn/](https://www.linkedin.com/in/o-brn/);
+ 
+ 👨‍💻 Dê uma olhada no meu [CV]("https://github.com/BrnCode/BrnCode/raw/main/assets/CV_Bruno.pdf"));
 
  ⚡ Curiosidade sobre mim **amo música e toco alguns instrumentos**.
 
