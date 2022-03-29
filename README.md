@@ -24,7 +24,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
  
  👨‍💻 Dê uma olhada no meu [CV](https://github.com/BrnCode/BrnCode/blob/main/assets/CV_Bruno.pdf) ;
 
- ⚡ Curiosidade sobre mim **amo música e toco alguns instrumentos**.
+ ⚡ Curiosidade sobre mim: **amo música e toco alguns instrumentos**.
 
 <!--
 <h3 align="left">Entre em contato comigo:</h3>
