@@ -22,14 +22,16 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
  📄 Saiba mais sobre mim em [https://www.linkedin.com/in/o-brn/](https://www.linkedin.com/in/o-brn/);
  
- 👨‍💻 Dê uma olhada no meu [CV]("https://github.com/BrnCode/BrnCode/blob/main/assets/CV_Bruno.pdf");
+ 👨‍💻 Dê uma olhada no meu [CV]("https://github.com/BrnCode/BrnCode/raw/main/assets/CV_Bruno.pdf");
 
  ⚡ Curiosidade sobre mim **amo música e toco alguns instrumentos**.
 
+-->
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/o-brn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-brn" height="30" width="40" /></a>
 </p>
+<--
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
