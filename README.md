@@ -17,6 +17,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
  🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**;
 
  👯 Eu procuro colaborar em **Projetos de Ciência de dados e IA**;
+ 
+ 🔭 Veja meu portfólio de DataViz em [Tableau Public](https://public.tableau.com/app/profile/brncode);
 
  📫 Fale comigo em **brn.olives@gmail.com**;
 
