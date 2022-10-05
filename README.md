@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img src="https://github.com/BrnCode/BrnCode/raw/main/assets/github-header.gif" alt="Oi, eu sou o Bruno">
 </p>
-
+-->
 <!--
 How to make the bio gif ?
 💜 Thanks to [matyo91](https://github.com/matyo91)
@@ -11,6 +12,7 @@ Then i recorded my screen to gif on EaseUS REC and save result to [assets/github
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
+  Olá, eu sou o Bruno.
 
  📝 Atualmente não estou trabalhando na área, mas como um grande entusiasta de tecnologia e especialmente de IA, tenho focado meus estudos nessa área, em especial, em Machine Learning e Data Viz;
  
@@ -18,7 +20,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
  👯 Eu procuro colaborar em **Projetos de Ciência de dados e IA**;
  
- 🔭 Veja meu portfólio de DataViz em [Tableau Public](https://public.tableau.com/app/profile/brncode);
+ 🔭 Veja meu [portfólio](https://BrnCode.github.io/Projetos/);
 
  📫 Fale comigo em **brn.olives@gmail.com**;
 
