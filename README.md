@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
   Olá, eu sou o Bruno.
 
- 📝 Atualmente não estou trabalhando na área, mas como um grande entusiasta de tecnologia e especialmente de IA, tenho focado meus estudos nessa área, em especial, em Machine Learning e Data Viz;
+ 📝 Sou Cientista de Dados Júnior pela BitFlowin e estou alocado na Galeria Ag, sou também um grande entusiasta de tecnologia e especialmente de IA, tenho focado meus estudos nessa área, em especial, em Machine Learning e Data Viz;
  
  🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**;
 
