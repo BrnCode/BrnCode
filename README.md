@@ -14,13 +14,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
   Olá, eu sou o Bruno.
 
- 📝 Sou Cientista de Dados Júnior pela BitFlowin e estou alocado na Galeria Ag, sou também um grande entusiasta de tecnologia e especialmente de IA, tenho focado meus estudos nessa área, em especial, em Machine Learning e Data Viz;
+ 📝 Sou Cientista de Dados e mestrando em Engenharia de Software pela Unipampa.
  
- 🌱 Eu estou procurando aprender sobre **Modelos de Machine Learning e Visualização de Dados**;
+ 🌱 Eu estou procurando aprender sobre **Visão Computacional e Séries Temporais**;
 
  👯 Eu procuro colaborar em **Projetos de Ciência de dados e IA**;
  
- 🔭 Veja meu [portfólio](https://BrnCode.github.io/Projetos/);
+ 🔭 Veja meu [portfólio](https://brncode.github.io/);
 
  📫 Fale comigo em **brn.olives@gmail.com**;
 
